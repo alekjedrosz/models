@@ -1,2 +1,2 @@
-# models
-A variety of classification and regression models implemented from the ground up
+# Models
+A variety of simple classification and regression models implemented from the ground up. 
