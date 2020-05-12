@@ -1,2 +1,2 @@
 # Models
-A variety of simple classification and regression models implemented from the ground up. 
+A variety of simple classification, regression and game playing models implemented from the ground up. 
